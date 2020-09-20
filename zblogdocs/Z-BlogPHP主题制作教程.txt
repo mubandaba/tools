@@ -1,0 +1,23 @@
+好了，下面烽烟会根据zblog主题的每个模板，为大家做详细的教程。
+
+1.主题制作前准备
+
+2.header.php 公共头部文件
+
+3.footer.php 公共页面尾部文件
+
+4.index.php 首页及列表页主模板文件
+
+5.post-multi.php 摘要文章模板  post-istop.php 置顶文章模板
+
+6.single.php 文章页(单页)主模板文件  post-single.php 日志页文章模板
+
+7.comment.php 评论区模板  comments.php 每条评论内容显示模板  commentpost.php 评论发送表单模板
+
+8.其他模板（如404、自定义模板等）
+
+9.include.php 主题内置插件嵌入页
+
+10.main.php 主题内置插件管理页
+
+本篇文章可供大家熟悉下zblog主题的每个模板用处，在官方wiki看过或者已经知道的朋友就当做导航目录来看吧！
